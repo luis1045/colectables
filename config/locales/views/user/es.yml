@@ -1,0 +1,9 @@
+es:
+  helpers:
+    submit:
+      user:
+        create: 'Crear %{model}' #si no pasas el modelo solo se pondra crear
+  users:
+    new:
+      form:
+        errors: 'Algo salio mal!!!'
